@@ -1,0 +1,13 @@
+/*  這裡寫css的語法 */
+     /*    CSS 選擇器   */
+     #del{text-decoration: :line-through;}
+     /* ID選擇器        */
+     span{font-weight:bold;}
+     /*標籤名稱選擇器*/
+        .ONE{background-color:#cccccc}
+        .TWO{font-size:24px;font-weight:bold}
+        .THREE{width:500px;margin-top:10px;border:1px 
+               dashed blue;padding:10px;}
+        .FOUR{color:red}
+    /* .+STH=CLASS選擇器  */    
+     .underline{text-decoration: underline;}
